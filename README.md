@@ -1,2 +1,1 @@
-# huss-valley-loader
-Public loader for Huss Valley assist script
+https://pastebin.com/raw/prC41QhR
